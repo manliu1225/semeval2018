@@ -1,0 +1,1 @@
+python test.py --X_train data/data-split-20171027/1/15000train_1.text --y_train data/data-split-20171027/1/15000train_1.labels --X_test data/data-split-20171027/1/1000test_1.text --y_test data/data-split-20171027/1/1000test_1.labels

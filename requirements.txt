@@ -1,0 +1,20 @@
+# For the math and ML stuffs
+numpy==1.11.1
+scipy==0.17.1
+seaborn==0.7.0
+scikit-learn==0.17.1
+matplotlib==1.5.1
+
+# For interoperating with CMU ARK Tweet POS tagger (sentiment prediction)
+Cython==0.24
+-e git://github.com/kivy/pyjnius.git@98596b37be14b7e0342342c1eaaae740574ba040#egg=jnius-master
+
+# Other modules that we need
+pymongo==3.2
+Flask==0.11.1
+PyMySQL==0.7.5
+boto==2.41.0
+openpyxl==2.3.5
+stemming==1.0.1
+tabulate==0.7.5
+twitter==1.17.1
